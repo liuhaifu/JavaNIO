@@ -1,4 +1,4 @@
-package com.tulip.bio;
+package com.tulip.bio.single;
 
 import lombok.extern.slf4j.Slf4j;
 
